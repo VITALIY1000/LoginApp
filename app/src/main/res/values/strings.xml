@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="button_exit">Logout</string>
+    <string name="title_activity_login">Login</string>
+    <string name="button_login">Login</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="login_message">You entered as\u0020</string>
+    <string name="alert_dialog_title">Exit</string>
+    <string name="alert_dialog_message">
+        Are you sure you want to cancel the authorization and close the application?
+    </string>
+    <string name="alert_dialog_button_ok">OK</string>
+    <string name="alert_dialog_button_cancel">Cancel</string>
+    <string name="warning_null_data">Fields cannot be empty!</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="button_exit">Вийти</string>
+    <string name="title_activity_login">Авторизація</string>
+    <string name="button_login">Ввыйти</string>
+    <string name="login">Логін</string>
+    <string name="password">Пароль</string>
+    <string name="login_message">Ви увішли як\u0020</string>
+    <string name="alert_dialog_title">Вихід</string>
+    <string name="alert_dialog_message">
+        Ви впевнені, що бажаєте відмінити авторизацію та вийти з додатку?
+    </string>
+    <string name="alert_dialog_button_ok">ОК</string>
+    <string name="alert_dialog_button_cancel">Відміна</string>
+    <string name="warning_null_data">Поля не можуть бути порожніми!</string>
+</resources>
